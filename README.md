@@ -1,4 +1,4 @@
-# Day-1
+# Day-2
 # GitHub Pull Request Practice
 
 This repository is designed to help you practice using Git and GitHub by:
